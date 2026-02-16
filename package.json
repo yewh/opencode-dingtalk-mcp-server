@@ -1,0 +1,20 @@
+{
+  "name": "dingtalk-mcp-server",
+  "version": "2.0.0",
+  "description": "DingTalk MCP Server for OpenCode - 钉钉 MCP 服务器",
+  "main": "index.mjs",
+  "type": "module",
+  "scripts": {
+    "start": "node index.mjs",
+    "dev": "node index.mjs"
+  },
+  "keywords": ["dingtalk", "opencode", "mcp", "钉钉"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.0.0",
+    "@opencode-ai/sdk": "^1.2.4",
+    "dingtalk-stream-sdk-nodejs": "^2.0.4",
+    "dotenv": "^17.3.1"
+  }
+}
