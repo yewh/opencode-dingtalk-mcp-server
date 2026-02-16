@@ -2,3 +2,8 @@
 node_modules/
 *.log
 .DS_Store
+.vscode/
+.idea/
+coverage/
+dist/
+build/
