@@ -194,6 +194,11 @@ npm start
   }
 }
 ```
+#### 6. 启动OpenCode serve
+
+```bash
+opencode serve
+```
 
 #### 6. 测试
 
