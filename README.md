@@ -317,7 +317,13 @@ npm start
 }
 ```
 
-### 6. 测试
+### 6.启动 OpenCode serve
+
+```bash
+opencode serve
+```
+
+### 7. 测试
 
 在钉钉中给机器人发送消息，观察终端输出。
 
